@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ideal Cafe ☕🍰
 
 Ideal Cafe is a responsive, frontend-only web application that allows users to explore a delicious cafe menu, add items to a global cart, and experience a polished UI with user and admin authentication. The professional Admin Dashboard provides a simple interface for managing menu items and viewing mock sales analytics.
@@ -38,3 +39,6 @@ Ideal Cafe is a responsive, frontend-only web application that allows users to e
 
    ```bash
    npm run dev
+=======
+# ideal-cafe
+>>>>>>> 3c3a8bd7311f222bc8b5e4999d538b5edd2b8ba2
